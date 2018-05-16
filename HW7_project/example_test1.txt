@@ -1,0 +1,10 @@
+STereo Lithography is a file format that was created by 3D Systems
+for their STereoLithography CAD software. The file format is currently 
+supported by many other software applications and is used to rapidly 
+develop rough three-dimensional drafts to be printed via 3D printer. 
+STL files are used only to describe the surface structure of a 3D object. 
+STL files are described in two file formats: ASCII and binary, both of 
+which are fully compatible with most STL software. The difference between 
+ASCII and binary are negligible to the user, however, on a storage level 
+the ASCII representation takes up to double the amount of storage space 
+on a machine versus the binary representation.

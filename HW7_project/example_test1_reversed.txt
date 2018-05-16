@@ -1,0 +1,10 @@
+on a machine versus the binary representation.
+the ASCII representation takes up to double the amount of storage space 
+ASCII and binary are negligible to the user, however, on a storage level 
+which are fully compatible with most STL software. The difference between 
+STL files are described in two file formats: ASCII and binary, both of 
+STL files are used only to describe the surface structure of a 3D object. 
+develop rough three-dimensional drafts to be printed via 3D printer. 
+supported by many other software applications and is used to rapidly 
+for their STereoLithography CAD software. The file format is currently 
+STereo Lithography is a file format that was created by 3D Systems
